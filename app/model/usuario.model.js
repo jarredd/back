@@ -9,7 +9,7 @@ const Usuario = function (usuario) {
     this.telefono = usuario.telefono;
     this.website = usuario.website;
 };
-
+//es una prueba de git
 
 Usuario.verificarCorreo =(newUsuario, result) =>{
     let coreoStatus ="";
